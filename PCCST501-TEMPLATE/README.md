@@ -4,9 +4,9 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name | Grace Anna Elson |
+| Register Number | VJC24CS098 |
+| GitHub Username | Grace9495 |
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
 
